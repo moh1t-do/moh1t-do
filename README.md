@@ -14,6 +14,6 @@ Skills: SVELTE / NODEJS / HTML / CSS / JS
 - ⚡ Fun fact: I watch anime  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moh1t-d0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moh1t-do)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moh1t-d0&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moh1t-do&show_icons=true)  
