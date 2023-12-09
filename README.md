@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 
-###
-
 <h4 align="left">👩‍💻  About Me</h4>
-
-###
 
 <p align="left">I'm Mohit from Jamshedpur, Jharkhand</p>
 
@@ -13,11 +9,11 @@
 📚 I'm currently learning typescript<br>
 🔭 I’m am prefinal year student @NITRR<br>
 
-⚡ In my free time I make digital fan art <span>[mohit](https://www.instagram.com/moh1t.do/)</span>
-
-<h4 align="left">🔥   My Stats</h4>
+⚡ In my free time I make digital fan art <span>[moh1t-do](https://www.instagram.com/moh1t.do/)</span>
 
 ###
+
+<h4 align="left">🔥   My Stats</h4>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=moh1t-do&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -25,9 +21,8 @@
 
 ###
 
-<img align="right" height="180" src="https://wallpapercave.com/wp/wp9336571.jpg"  />
+<img align="right" height="180" src="https://wallpapercave.com/wp/wp9336571.jpg" style="margin-bottom: 40px;"/>
 
-###
 
 <div align="left">
 <h4 align="left"> 🚀  I code with</h4>
