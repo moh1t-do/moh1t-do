@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="180" src="https://wallpapercave.com/wp/wp9336571.jpg" style="margin-bottom: 40px;"/>
+<img align="right" height="180" src="https://wallpapercave.com/wp/wp9336571.jpg"/>
 
 <div align="left">
 <h3 align="left"> 🚀  I code with</h3>
