@@ -9,7 +9,7 @@
 📚 I'm currently learning typescript<br>
 🔭 I’m am prefinal year student @NITRR<br>
 
-⚡ In my free time I make digital fan art <span>[moh1t-do](https://www.instagram.com/moh1t.do/)</span>
+⚡ In my free time I make digital fan art at <span>[_odd.numbers_](https://www.instagram.com/_odd.numbers_/)</span>
 
 ###
 
@@ -55,7 +55,7 @@
   <a href="https://twitter.com/mohitd137" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/moh1t.do/" target="_blank">
+  <a href="https://www.instagram.com/_moh1t.do_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
