@@ -8,8 +8,8 @@
 </p>
 📚 I'm currently learning typescript<br>
 🔭 I’m am prefinal year student @NITRR<br>
-
-⚡ In my free time I post digital fan art at <span>[_odd.numbers_](https://www.instagram.com/_odd.numbers_/)</span>
+⚡ In my free time I post digital fan art at <span>[_odd.numbers_](https://www.instagram.com/_odd.numbers_/)</span> <br>
+✨ Fun fact I type fast <span>[krys10](https://monkeytype.com/profile/krys10)</span>
 
 ###
 
