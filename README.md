@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋</h1>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑‍💻  About Me</h3>
 
 <p align="left">I'm Mohit from Jamshedpur, Jharkhand</p>
 
