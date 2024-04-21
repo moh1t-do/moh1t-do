@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./images/header.jpg" height="220" alt="streak graph"  />
+</div>
+
 <h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">🧑‍💻  About Me</h3>
