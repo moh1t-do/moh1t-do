@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hey there 👋</h1> -->
+[![](https://visitcount.itsvg.in/api?id=moh1t-do&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="./images/header.png" alt="header"  />
@@ -67,5 +67,4 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=moh1t-do&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="./images/footer.png" alt="thanks"  />
