@@ -1,8 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=moh1t-do&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<div align="center">
+<!-- <div align="center">
   <img src="./images/header.png" alt="header"  />
-</div>
+</div> -->
 
 <h3 align="left">🧑‍💻  About Me</h3>
 
@@ -10,8 +10,8 @@
 
 <p>
 </p>
-📚 I'm currently learning typescript<br>
-🔭 I’m am final year student @NITRR<br>
+📚 I'm currently learning Spring Boot<br>
+<!-- 🔭 I’m am final year student @NITRR<br> -->
 
 ⚡ In my free time I post digital fan art at <span>[_odd.numbers_](https://www.instagram.com/_odd.numbers_/)</span><br>
 ✨ Fun fact I type <span>[fast](https://monkeytype.com/profile/krys10)</span>
